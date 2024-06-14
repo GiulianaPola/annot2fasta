@@ -4,10 +4,6 @@
 
 `annot2fasta` is a versatile Python script designed to simplify the process of converting annotation data into FASTA files, which are commonly used for biological sequence analysis. This script takes annotation files or folders as input and extracts nucleotide sequences based on the provided coordinates in the annotations. By doing so, it streamlines the conversion of annotated sequences into a more usable FASTA format.
 
-## Version
-
-**Current Version:** 1.0.5
-
 ## Usage
 
 The `annot2fasta` script provides a range of options for converting annotation data to FASTA format. Here are the command-line parameters and their descriptions:
