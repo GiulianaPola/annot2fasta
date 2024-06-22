@@ -32,7 +32,7 @@ annot2fasta -i <path|file> -o <output_folder> [-h] [-v]
 
 2. To process an entire folder of annotation files and save the resulting FASTA files in the default "fasta_files" output folder:
    ```shell
-   annot2fasta -i annotation_folder -o
+   annot2fasta -i annotation_folder
    ```
 
 ## Authors
